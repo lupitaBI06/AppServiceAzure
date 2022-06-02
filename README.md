@@ -2,7 +2,9 @@
 
 Azure App Service proporciona una plataforma como servicio (PaaS) ya que puede implementar, compilar y escalar de forma rápida aplicaciones de API, móviles y web. Una de las ventajas que tiene es que satisface los requisitos de rendimiento, escalabilidad y cumplimiento.
 
-**¿Cuándo usar App Service dde Azure?**
+![App service logo](Imagenes\logo.png)
+
+**¿Cuándo usar App Service de Azure?**
 
 App Service de Azure se utiliza cuando:
 
