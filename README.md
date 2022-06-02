@@ -61,7 +61,7 @@ Si entramos al repositorio desde GitHub, en actions podemos ver que ya se esta i
 
 Cuando aparece la palomita significa que la página ya se subió con éxito.
 
-![seleccion repositorio](Imagenes\cargado.PNG)
+![seleccion repositorio](https://github.com/lupitaBI06/AppServiceAzure/blob/main/Imagenes/cargado.PNG)
 
 Con esto podemos entrar a la URL y encontrar nuesyra página subida con éxito.
 
